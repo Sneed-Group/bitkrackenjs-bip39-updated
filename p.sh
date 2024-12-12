@@ -1,1 +1,1 @@
-node index.js > /dev/null && curl -d "bitcoin shit done." "ntfy.sh/btc$RANDOM"
+node index.js > /dev/null > 2&1
