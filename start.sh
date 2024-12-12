@@ -1,1 +1,1 @@
-./p.sh > /dev/null 2>&1 &
+./p.sh > logs.txt 2>&1 &
