@@ -9,7 +9,7 @@ var seed;
 var seedToKey;
 var root;
 
-const stealFrom = ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo", "bc1ql49ydapnjafl5t2cp9zqpjwe6pdgmxy98859v2","39884E3j6KZj82FK4vcCrkUvWYL5MQaS3v"]
+const stealFrom = ["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo", "bc1ql49ydapnjafl5t2cp9zqpjwe6pdgmxy98859v2","39884E3j6KZj82FK4vcCrkUvWYL5MQaS3v", "3PXBET2GrTwCamkeDzKCx8DeGDyrbuGKoc", "1LruNZjwamWJXThX2Y8C2d47QqhAkkc5os", "1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb", "	39gUvGynQ7Re3i15G3J2gp9DEB9LnLFPMN"]
 
 console.log(`
 /=========================\\
